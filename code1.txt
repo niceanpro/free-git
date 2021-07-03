@@ -1,3 +1,4 @@
 first second  코리아
 한글추가
 genius
+revert 실수
