@@ -3,3 +3,6 @@ first second  코리아
 genius
 
 dev 신기능
+
+
+중요한 수정 사항
